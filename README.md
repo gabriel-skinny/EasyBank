@@ -1,6 +1,11 @@
 # EasyBank
 Desafio do site Frontend Mentor. 
+
+
+
 <p>Aqui esta a solution que eu postei no site <a>https://www.frontendmentor.io/solutions/easybank-landing-page-web-gtOt9rxyF</a></p>
+
+<img src="./images/preview.jpg" />
 
 # Preview
 
